@@ -6,8 +6,8 @@ Collection of latest open source models on 3D segmentation
 This repository contains a curated list of papers related to [3D Segmentation], including direct links to the papers, authors, and a brief summary of each paper's contributions. The papers are organized by themes/topics/year/publication venue as applicable.
 
 ## Table of Contents
-- [Theme/Topic/Year/Venue 1](#theme1)
-- [Theme/Topic/Year/Venue 2](#theme2)
+- [CT Segmentation Papers](#theme1)
+- [CT Segmentation Datasets](#theme2)
 - [How to Contribute](#how-to-contribute)
 
 ---
