@@ -26,15 +26,20 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 
 ## <a name="theme2"></a>CT Segmentation Dataset
 
+## Head and Neck Organ At Risk CT & MR Segmentation Challenge (HaN-Seg)
+- **Authors:**Gašper Podobnik, Primož Strojan, Primož Peterlin, Bulat Ibragimov, Tomaž Vrtovec
+- **Link:** [Paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.16197) [Dataset](https://han-seg2023.grand-challenge.org/)
+- **Summary:** 30 Organs at Head and Neck Region of 56 patients labelled
+
 ### Body Maps: Towards 3D Atlas of Human Body
 - **Authors:** Li, Wenxuan et al.
 - **Link:** [Dataset](https://zenodo.org/records/10687640)
 - **Summary:** 10142 CT Volumes with 25 antaomical structures voxel level annotations. W-1K is proprietary dataset of 1000 CT-volumes reserved for testing having 15 anatomical structures labels. 
 
-### CT_ORG
-- **Authors:** Author 1, Author 2, Author 3
-- **Link:** [Paper](https://link_to_paper)
-- **Summary:** Brief summary of the paper, highlighting contributions, methodologies, and key findings.
+### SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma
+- **Authors:** Luo, Xiangde et al. 
+- **Link:** [Paper](https://arxiv.org/abs/2312.09576) [Dataset](https://segrap2023.grand-challenge.org/dataset/)
+- **Summary:** 45 Organs at Risk
 
 ### ABDOMEN_1K
 - **Authors:** Author 1, Author 2, Author 3
@@ -51,7 +56,11 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 - **Link:** [Paper](https://link_to_paper)
 - **Summary:** Brief summary of the paper, highlighting contributions, methodologies, and key findings.
 
-  
+  ## CT_ORG
+- **Authors:** Author 1, Author 2, Author 3
+- **Link:** [Paper](https://link_to_paper)
+- **Summary:** Brief summary of the paper, highlighting contributions, methodologies, and key findings.
+
 
 ---
 
