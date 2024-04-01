@@ -14,11 +14,10 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 
 ## <a name="theme1"></a>Theme/Topic/Year/Venue 1
 
-### Paper Title 1
+### Fully Automated, Semantic Segmentation of Whole-Body 18F-FDG PET/CT Images Based on Data-Centric Artificial Intelligence
 - **Authors:** Lalith Kumar Shiyam Sundar, Josef Yu, Otto Muzik, Oana C. Kulterer, Barbara Fueger, Daria Kifjak, Thomas Nakuz, Hyung Min Shin, Annika Katharina Sima, Daniela Kitzmantl, Ramsey D. Badawi, Lorenzo Nardo, Simon R. Cherry, Benjamin A. Spencer, Marcus Hacker and Thomas Beyer
-- **Link:** [Fully Automated, Semantic Segmentation of Whole-Body 18F-FDG PET/CT Images Based on Data-Centric Artificial Intelligence]([https://jnm.snmjournals.org/content/63/12/1941)])
-- **Summary:**
-- **Code Availability:** [https://github.com/ENHANCE-PET/MOOSE] 
+- **Link:** [Paper](https://jnm.snmjournals.org/content/63/12/1941) [Code] (https://github.com/ENHANCE-PET/MOOSE)
+- **Summary:** Publicly available segmenting 120 structures using nn-unet framework
 
 ### Paper Title 2
 - **Authors:** Author 1, Author 2, Author 3
