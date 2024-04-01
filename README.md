@@ -20,8 +20,8 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 - **Summary:** Publicly available segmenting upto 120 structures using nn-unet framework
 
 ### Softmax for Arbitrary Label Trees (SALT)
-- **Authors: University Medicine Essen
-- **Link:** [Paper](https://github.com/UMEssen/SALT))
+- **Authors:** University Medicine Essen
+- **Link:** [Paper](https://github.com/UMEssen/SALT)
 - **Summary:** Segmentation upto 145 anatomical structures from CT Imaages. 
 
 ## <a name="theme2"></a>CT Segmentation Dataset
