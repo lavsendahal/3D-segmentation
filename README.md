@@ -12,29 +12,46 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 
 ---
 
-## <a name="theme1"></a>Theme/Topic/Year/Venue 1
+## <a name="theme1"></a>CT Segmentation Papers
 
 ### Fully Automated, Semantic Segmentation of Whole-Body 18F-FDG PET/CT Images Based on Data-Centric Artificial Intelligence
-- **Authors:** Lalith Kumar Shiyam Sundar, Josef Yu, Otto Muzik, Oana C. Kulterer, Barbara Fueger, Daria Kifjak, Thomas Nakuz, Hyung Min Shin, Annika Katharina Sima, Daniela Kitzmantl, Ramsey D. Badawi, Lorenzo Nardo, Simon R. Cherry, Benjamin A. Spencer, Marcus Hacker and Thomas Beyer
-- **Link:** [Paper](https://jnm.snmjournals.org/content/63/12/1941) [Code] (https://github.com/ENHANCE-PET/MOOSE)
-- **Summary:** Publicly available segmenting 120 structures using nn-unet framework
+- **Authors:** Lalith Kumar Shiyam Sundar et al.
+- **Link:** [Paper](https://jnm.snmjournals.org/content/63/12/1941) [Code](https://github.com/ENHANCE-PET/MOOSE)
+- **Summary:** Publicly available segmenting upto 120 structures using nn-unet framework
 
-### Paper Title 2
+### Softmax for Arbitrary Label Trees (SALT)
+- **Authors: University Medicine Essen
+- **Link:** [Paper](https://github.com/UMEssen/SALT))
+- **Summary:** Segmentation upto 145 anatomical structures from CT Imaages. 
+
+## <a name="theme2"></a>CT Segmentation Dataset
+
+### Body Maps: Towards 3D Atlas of Human Body
+- **Authors:** Li, Wenxuan et al.
+- **Link:** [Dataset](https://zenodo.org/records/10687640)
+- **Summary:** 10142 CT Volumes with 25 antaomical structures voxel level annotations. W-1K is proprietary dataset of 1000 CT-volumes reserved for testing having 15 anatomical structures labels. 
+
+### CT_ORG
 - **Authors:** Author 1, Author 2, Author 3
 - **Link:** [Paper](https://link_to_paper)
 - **Summary:** Brief summary of the paper, highlighting contributions, methodologies, and key findings.
 
-## <a name="theme2"></a>Theme/Topic/Year/Venue 2
-
-### Paper Title 3
+### ABDOMEN_1K
 - **Authors:** Author 1, Author 2, Author 3
 - **Link:** [Paper](https://link_to_paper)
 - **Summary:** Brief summary of the paper, highlighting contributions, methodologies, and key findings.
 
-### Paper Title 4
+### TOTALSEG
 - **Authors:** Author 1, Author 2, Author 3
 - **Link:** [Paper](https://link_to_paper)
 - **Summary:** Brief summary of the paper, highlighting contributions, methodologies, and key findings.
+
+## AMOS
+- **Authors:** Author 1, Author 2, Author 3
+- **Link:** [Paper](https://link_to_paper)
+- **Summary:** Brief summary of the paper, highlighting contributions, methodologies, and key findings.
+
+  
 
 ---
 
