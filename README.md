@@ -33,7 +33,7 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 
 ### Body Maps: Towards 3D Atlas of Human Body
 - **Authors:** Li, Wenxuan et al.
-- **Link:** [Challenge](https://codalab.lisn.upsaclay.fr/competitions/16919)[Dataset](https://zenodo.org/records/10687640)
+- **Link:** [Challenge](https://codalab.lisn.upsaclay.fr/competitions/16919) [Github](https://github.com/johnson111788/BodyMaps) [Dataset](https://zenodo.org/records/10687640)
 - **Summary:** 10142 CT Volumes with 25 antaomical structures voxel level annotations. W-1K is proprietary dataset of 1000 CT-volumes reserved for testing having 15 anatomical structures labels. 
 
 ### SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma
