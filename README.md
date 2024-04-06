@@ -27,7 +27,7 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 ## <a name="theme2"></a>CT Segmentation Dataset
 
 ## Head and Neck Organ At Risk CT & MR Segmentation Challenge (HaN-Seg)
-- **Authors:**Gašper Podobnik, Primož Strojan, Primož Peterlin, Bulat Ibragimov, Tomaž Vrtovec
+- **Authors:** Gašper Podobnik, Primož Strojan, Primož Peterlin, Bulat Ibragimov, Tomaž Vrtovec
 - **Link:** [Paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/mp.16197) [Dataset](https://han-seg2023.grand-challenge.org/)
 - **Summary:** 30 Structures Labels of 42 cases available. 
 
