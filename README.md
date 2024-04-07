@@ -41,10 +41,10 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 - **Link:** [Paper](https://arxiv.org/abs/2312.09576) [Dataset](https://segrap2023.grand-challenge.org/dataset/)
 - **Summary:** 54 Structures Labels of 120 cases available. 
 
-### ABDOMEN_1K
-- **Authors:** Author 1, Author 2, Author 3
-- **Link:** [Paper](https://link_to_paper)
-- **Summary:** Brief summary of the paper, highlighting contributions, methodologies, and key findings.
+### Towards Unifying Anatomy Segmentation: Automated Generation of a Full-body CT Dataset
+- **Authors:** Jaus et al. 
+- **Link:** [Paper](https://arxiv.org/abs/2307.13375) [Code](https://github.com/alexanderjaus/AtlasDataset.git)
+- **Summary:** Segmenting 144 labels using nnunetv1 from whole-body FDG-PET/CT public dataset
 
 ### TOTALSEG
 - **Authors:** Author 1, Author 2, Author 3
