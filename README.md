@@ -46,22 +46,22 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 - **Link:** [Paper](https://arxiv.org/abs/2307.13375) [Code](https://github.com/alexanderjaus/AtlasDataset.git)
 - **Summary:** Segmenting 144 labels using nnunetv1 from whole-body FDG-PET/CT public dataset
 
-### TOTALSEG
-- **Authors:** Author 1, Author 2, Author 3
-- **Link:** [Paper](https://link_to_paper)
-- **Summary:** Brief summary of the paper, highlighting contributions, methodologies, and key findings.
+### Multi-site, Multi-domain Airway Tree Modeling
+- **Authors:** Zhang et al.
+- **Link:** [Challenge](https://atm22.grand-challenge.org/dataset/))
+- **Summary:** Lung airways masks for 300 cases.
 
-## AMOS
-- **Authors:** Author 1, Author 2, Author 3
-- **Link:** [Paper](https://link_to_paper)
-- **Summary:** Brief summary of the paper, highlighting contributions, methodologies, and key findings.
+## AeroPath: An airway segmentation benchmark dataset with challenging pathology
+- **Authors:** Stoverud et al.
+- **Link:** [Github](https://github.com/raidionics/AeroPath)
+- **Summary:** Lung Airways for 27 severe cases and the webapp hosted on Hugging Face.
 
-  ## CT_ORG
-- **Authors:** Author 1, Author 2, Author 3
-- **Link:** [Paper](https://link_to_paper)
-- **Summary:** Brief summary of the paper, highlighting contributions, methodologies, and key findings.
+  ## AMOS: A Large-Scale Abdominal Multi-Organ Benchmark for Versatile Medical Image Segmentation
+- **Authors:** Ji et al. 
+- **Link:** [Challenge](https://amos22.grand-challenge.org/) [Dataset](https://zenodo.org/records/7155725#.Y0OOCOxBztM)
+- **Summary:** 15 Organs masks available for 300 cases. 
 
-
+## MICCAI FLARE 2023
 ---
 
 ## <a name="how-to-contribute"></a>How to Contribute
