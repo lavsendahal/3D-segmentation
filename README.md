@@ -64,7 +64,12 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 ### StructSeg 2019 
 - **Authors:** 
 - **Link:** [Challenge](https://structseg2019.grand-challenge.org/)
-- **Summary:** 22 Organs from 50 Head and Neck CT. 6 Organs from 50 Chest CT. In addition, lung and nasopharynx cancer annotated.  
+- **Summary:** 22 Organs from 50 Head and Neck CT. 6 Organs from 50 Chest CT. In addition, lung and nasopharynx cancer annotated.
+
+### Medical Segmentation Decathlon (MSD)
+- **Authors:** 
+- **Link:** [Challenge](https://decathlon-10.grand-challenge.org/)
+- **Summary:** Segmentation available for Hepatic Vessels, Pancreas, Liver, Colon, Spleen, Lungs from CT Images.
 
 ## MICCAI FLARE 2023
 ---
