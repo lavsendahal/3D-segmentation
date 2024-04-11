@@ -51,15 +51,20 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 - **Link:** [Challenge](https://atm22.grand-challenge.org/dataset/))
 - **Summary:** Lung airways masks for 300 cases.
 
-## AeroPath: An airway segmentation benchmark dataset with challenging pathology
+### AeroPath: An airway segmentation benchmark dataset with challenging pathology
 - **Authors:** Stoverud et al.
 - **Link:** [Github](https://github.com/raidionics/AeroPath)
 - **Summary:** Lung Airways for 27 severe cases and the webapp hosted on Hugging Face.
 
-  ## AMOS: A Large-Scale Abdominal Multi-Organ Benchmark for Versatile Medical Image Segmentation
+### AMOS: A Large-Scale Abdominal Multi-Organ Benchmark for Versatile Medical Image Segmentation
 - **Authors:** Ji et al. 
 - **Link:** [Challenge](https://amos22.grand-challenge.org/) [Dataset](https://zenodo.org/records/7155725#.Y0OOCOxBztM)
-- **Summary:** 15 Organs masks available for 300 cases. 
+- **Summary:** 15 Organs masks available for 300 cases.
+
+### StructSeg 2019 
+- **Authors:** 
+- **Link:** [Challenge](https://structseg2019.grand-challenge.org/)
+- **Summary:** 22 Organs from 50 Head and Neck CT. 6 Organs from 50 Chest CT. In addition, lung and nasopharynx cancer annotated.  
 
 ## MICCAI FLARE 2023
 ---
