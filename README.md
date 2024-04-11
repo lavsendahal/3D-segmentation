@@ -36,7 +36,7 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 - **Authors:** 
 - **Link:** [Challenge](https://structseg2019.grand-challenge.org/)
 - **Summary:** 22 Organs from 50 Head and Neck CT. 6 Organs from 50 Chest CT. In addition, lung and nasopharynx cancer annotated.
-- - **Category:** Head and Neck and Chest
+- **Category:** Head and Neck and Chest
 
 ### SegRap2023: A Benchmark of Organs-at-Risk and Gross Tumor Volume Segmentation for Radiotherapy Planning of Nasopharyngeal Carcinoma
 - **Authors:** Luo, Xiangde et al. 
@@ -58,7 +58,7 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 
 ## MICCAI FLARE 2023
 - **Authors:** 
-- **Link:** [Challenge] (https://codalab.lisn.upsaclay.fr/competitions/12239)
+- **Link:** [Challenge](https://codalab.lisn.upsaclay.fr/competitions/12239)
 - **Summary:** 2200 Labelled data and 1800 unlabelled CTs. 
 - **Category:** Abdomen
   
