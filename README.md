@@ -95,6 +95,13 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 - **Summary:** Adrenal cancer for 53 subjects 
 - **Category:** Adrenal
 
+### 
+- **Authors:** Roth et al. 
+- **Link:** [Dataset](https://covid-segmentation.grand-challenge.org/)))
+- **Summary:** Unenhanced chest CTs from 199 and 50 patients, respectively, with positive RT-PCR for SARS-CoV-2 and ground truth annotations of COVID-19 lesions in the lung.
+- **Category:** COVID-19
+  
+
 ## <a name="how-to-contribute"></a>How to Contribute
 
 We welcome contributions to this repository! If you would like to add a paper, suggest a theme, or improve the summaries, please follow these steps:
