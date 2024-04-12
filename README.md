@@ -87,6 +87,13 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 - **Summary:**  374 CT images with veretebrae labels. 
 - **Category:** Chest
 
+### MICCAI 2020 RibFrac Challenge
+- **Authors:** Yang et al. 
+- **Link:** [Challenge](https://ribfrac.grand-challenge.org/)
+- **Summary:**  660 Images with Ribs Segmented. Point Cloud approach sota and fast. 
+- **Category:** Chest
+- 
+
 ### Towards Unifying Anatomy Segmentation: Automated Generation of a Full-body CT Dataset
 - **Authors:** Jaus et al. 
 - **Link:** [Paper](https://arxiv.org/abs/2307.13375) [Code](https://github.com/alexanderjaus/AtlasDataset.git)
