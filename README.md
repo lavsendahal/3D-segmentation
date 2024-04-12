@@ -8,6 +8,7 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 ## Table of Contents
 - [CT Segmentation Papers](#theme1)
 - [CT Segmentation Datasets](#theme2)
+- [CT Segmentation Disease/Tumours](#theme3)
 - [How to Contribute](#how-to-contribute)
 
 ---
@@ -86,9 +87,13 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 - **Summary:** Segmenting 144 labels using nnunetv1 from whole-body FDG-PET/CT public dataset
 - **Category:** Full Body
 
+## <a name="theme2"></a>CT Segmentation Disease / Tumours 
 
-
-
+### Voxel-level segmentation of pathologically-proven Adrenocortical carcinoma with Ki-67 expression
+- **Authors:** Ahmed et al. 
+- **Link:** [Dataset](https://www.cancerimagingarchive.net/collection/adrenal-acc-ki67-seg/))
+- **Summary:** Adrenal cancer for 53 subjects 
+- **Category:** Adrenal
 
 ## <a name="how-to-contribute"></a>How to Contribute
 
