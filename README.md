@@ -87,6 +87,11 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 - **Summary:** Segmenting 144 labels using nnunetv1 from whole-body FDG-PET/CT public dataset
 - **Category:** Full Body
 
+### TotalSegmentatator
+- **Authors:** Jakob et al. 
+- **Link:** [Dataset](https://zenodo.org/records/10047292)
+- **Summary:** Masks for 117 labels publicly available for 1228 CT Images
+- **Category:** Full Body
 ## <a name="theme2"></a>CT Segmentation Disease / Tumours 
 
 ### Voxel-level segmentation of pathologically-proven Adrenocortical carcinoma with Ki-67 expression
