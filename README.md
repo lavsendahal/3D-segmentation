@@ -81,6 +81,12 @@ This repository contains a curated list of papers related to [3D Segmentation], 
 - **Summary:** Lung Airways for 27 severe cases and the webapp hosted on Hugging Face.
 - **Category:** Chest
 
+### VerSE : A vertebrae labelling and segmentation benchmark for multi-detector ct images.
+- **Authors:** Anjany et al. 
+- **Link:** [Paper](https://www.sciencedirect.com/science/article/pii/S1361841521002127)
+- **Summary:**  374 CT images with veretebrae labels. 
+- **Category:** Chest
+
 ### Towards Unifying Anatomy Segmentation: Automated Generation of a Full-body CT Dataset
 - **Authors:** Jaus et al. 
 - **Link:** [Paper](https://arxiv.org/abs/2307.13375) [Code](https://github.com/alexanderjaus/AtlasDataset.git)
